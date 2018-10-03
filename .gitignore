@@ -1,0 +1,5 @@
+# See # https://github.com/github/gitignore/blob/master/Python.gitignore
+# for a complete list
+
+# Jupyter Notebook
+.ipynb_checkpoints
