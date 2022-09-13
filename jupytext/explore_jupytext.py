@@ -28,4 +28,6 @@ fig = px.scatter(df,
                  y="sepal_length",
                  color="species")
 
+fig.layout.title = 'The Iris dataset'
+
 fig.show()
