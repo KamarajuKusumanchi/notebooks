@@ -1,4 +1,3 @@
-
 #------------------------------------------------------------------------------
 # With jupytext, we can pair each .ipynb file with a .py or .md
 # file (depending on the purpose of the .ipynb file). The former is not suitable
@@ -7,4 +6,3 @@
 # to git.
 *.ipynb
 #------------------------------------------------------------------------------
-
